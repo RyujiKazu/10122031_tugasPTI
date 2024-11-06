@@ -22,7 +22,6 @@ function get_array_menu($id)
  return $arr;
  }
  else
-6
  {
  die();
  }
